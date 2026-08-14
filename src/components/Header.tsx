@@ -2,6 +2,7 @@ import { useState } from "react";
 import { Link } from "react-router-dom";
 import { ArrowRight, User, Menu, X, Phone, Mail } from "lucide-react";
 import { useAuth } from "@/hooks/useAuth";
+import logoUrl from "@/assets/logo.png";
 
 interface HeaderProps {
   currentPage?: string;
@@ -37,7 +38,7 @@ const Header = ({ currentPage = "" }: HeaderProps) => {
       <div className="container mx-auto px-4 py-3 flex items-center justify-between">
         <div className="flex items-center space-x-3">
           <Link to="/" className="flex items-center gap-2">
-            <img src="/src/assets/logo.png" alt="MicroSnet" className="h-10 w-auto object-contain" />
+            <img src={logoUrl} alt="MicroSnet" className="h-10 w-auto object-contain" />
           </Link>
         </div>
 
