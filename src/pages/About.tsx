@@ -27,7 +27,7 @@ const About = () => {
           </div>
 
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-space font-extrabold uppercase tracking-tight mb-6 leading-tight">
-            À propos de <span className="text-brand-orange">MicroSnet</span>
+            À propos de <span className="text-brand-orange">Iliko</span>
           </h1>
 
           <p className="text-gray-300 text-base sm:text-lg max-w-2xl mx-auto leading-relaxed">
@@ -54,7 +54,7 @@ const About = () => {
               </div>
 
               <p className="text-gray-600 text-base leading-relaxed">
-                Chez MicroSnet, nous sommes convaincus que créer et piloter une structure en Côte d'Ivoire ne doit plus être un parcours d'obstacles administratifs. Notre vocation est d'offrir à chaque porteur de projet, PME ou groupe international une expérience fluide, rapide et rigoureusement conforme.
+                Chez Iliko, nous sommes convaincus que créer et piloter une structure en Côte d'Ivoire ne doit plus être un parcours d'obstacles administratifs. Notre vocation est d'offrir à chaque porteur de projet, PME ou groupe international une expérience fluide, rapide et rigoureusement conforme.
               </p>
 
               <p className="text-gray-600 text-base leading-relaxed">
@@ -84,7 +84,7 @@ const About = () => {
                 <div className="rounded-2xl overflow-hidden shadow-2xl relative z-10">
                   <img
                     src="https://images.unsplash.com/photo-1600880292203-757bb62b4baf?q=80&w=800&auto=format&fit=crop"
-                    alt="Cabinet MicroSnet Abidjan"
+                    alt="Cabinet Iliko Abidjan"
                     className="w-full h-auto object-cover"
                   />
                 </div>
@@ -104,7 +104,7 @@ const About = () => {
               Nos Engagements
             </p>
             <h2 className="text-3xl sm:text-4xl font-space font-extrabold text-brand-navy">
-              Les piliers d'excellence de MicroSnet
+              Les piliers d'excellence de Iliko
             </h2>
           </div>
 

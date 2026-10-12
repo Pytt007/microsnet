@@ -18,7 +18,7 @@ const Footer = () => {
             </div>
             <div>
               <p className="text-[11px] font-bold tracking-widest text-gray-400 uppercase mb-0.5">TÉLÉPHONE</p>
-              <p className="text-sm font-semibold text-white tracking-wide">+225 07 00 00 00 00</p>
+              <p className="text-sm font-semibold text-white tracking-wide">+225 05 03 61 71 71</p>
             </div>
           </div>
 
@@ -29,7 +29,7 @@ const Footer = () => {
             </div>
             <div>
               <p className="text-[11px] font-bold tracking-widest text-gray-400 uppercase mb-0.5">SUPPORT & EMAIL</p>
-              <p className="text-sm font-semibold text-white tracking-wide">contact@microsnet.ci</p>
+              <p className="text-sm font-semibold text-white tracking-wide">contact@iliko.ci</p>
             </div>
           </div>
 
@@ -51,14 +51,14 @@ const Footer = () => {
             </div>
             <div>
               <p className="text-[11px] font-bold tracking-widest text-gray-400 uppercase mb-0.5">SITE OFFICIEL</p>
-              <p className="text-sm font-semibold text-white tracking-wide">www.microsnet.ci</p>
+              <p className="text-sm font-semibold text-white tracking-wide">www.iliko.ci</p>
             </div>
           </div>
         </div>
 
         {/* Bottom Bar */}
         <div className="border-t border-white/10 pt-8 flex flex-col sm:flex-row justify-between items-center gap-4 text-xs text-gray-400 font-medium">
-          <p>© {new Date().getFullYear()} MicroSnet. Tous droits réservés. Plateforme Juridique & Administrative.</p>
+          <p>© {new Date().getFullYear()} Iliko. Tous droits réservés. Plateforme Juridique & Administrative.</p>
           <div className="flex items-center gap-6">
             <Link to="/services" className="hover:text-brand-orange transition-colors">Services</Link>
             <Link to="/about" className="hover:text-brand-orange transition-colors">À propos</Link>

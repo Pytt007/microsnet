@@ -1,4 +1,4 @@
-# MicroSnet Web Application
+# Iliko Web Application
 
 Plateforme digitale premium pour la gestion des démarches juridiques et administratives en Côte d'Ivoire.
 
@@ -36,4 +36,4 @@ npm run dev
 
 ## Licence
 
-© 2026 MicroSnet. Tous droits réservés.
+© 2026 Iliko. Tous droits réservés.

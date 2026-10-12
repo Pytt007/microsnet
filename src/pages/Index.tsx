@@ -92,7 +92,7 @@ const Index = () => {
                   </div>
                   <div>
                     <span className="block text-[10px] text-gray-400 font-bold uppercase tracking-wider">APPELEZ-NOUS</span>
-                    <span className="text-sm font-semibold text-white">+225 07 00 00 00 00</span>
+                    <span className="text-sm font-semibold text-white">+225 05 03 61 71 71</span>
                   </div>
                 </div>
 
@@ -102,7 +102,7 @@ const Index = () => {
                   </div>
                   <div>
                     <span className="block text-[10px] text-gray-400 font-bold uppercase tracking-wider">EMAIL DIRECT</span>
-                    <span className="text-sm font-semibold text-white">contact@microsnet.ci</span>
+                    <span className="text-sm font-semibold text-white">contact@iliko.ci</span>
                   </div>
                 </div>
               </div>
@@ -198,7 +198,7 @@ const Index = () => {
             </div>
             <div className="lg:col-span-6">
               <p className="text-gray-500 text-sm sm:text-base leading-relaxed font-normal">
-                MicroSnet simplifie l'écosystème des affaires en Côte d'Ivoire. Nous prenons en charge l'ensemble de vos démarches administratives, de la rédaction de vos statuts jusqu'à l'obtention de vos agréments officiels, avec rigueur et célérité.
+                Iliko simplifie l'écosystème des affaires en Côte d'Ivoire. Nous prenons en charge l'ensemble de vos démarches administratives, de la rédaction de vos statuts jusqu'à l'obtention de vos agréments officiels, avec rigueur et célérité.
               </p>
             </div>
           </div>
@@ -330,12 +330,12 @@ const Index = () => {
                   AU SERVICE DES ENTREPRENEURS EN CÔTE D'IVOIRE
                 </h2>
                 <p className="text-xs font-semibold uppercase tracking-widest text-brand-orange mt-1">
-                  BIENVENUE CHEZ MICROSNĒT
+                  BIENVENUE CHEZ ILIKO
                 </p>
               </div>
 
               <p className="text-gray-500 text-sm leading-relaxed">
-                Fondé par des juristes chevronnés et des experts du climat des affaires, MicroSnet s'engage à démocratiser l'accès aux formalités juridiques et administratives. Nous vous aidons à bâtir des bases solides pour votre structure, de la rédaction des statuts à l'immatriculation fiscale et sociale.
+                Fondé par des juristes chevronnés et des experts du climat des affaires, Iliko s'engage à démocratiser l'accès aux formalités juridiques et administratives. Nous vous aidons à bâtir des bases solides pour votre structure, de la rédaction des statuts à l'immatriculation fiscale et sociale.
               </p>
 
               {/* Stats Counters */}
@@ -370,7 +370,7 @@ const Index = () => {
                 <div className="rounded-xl overflow-hidden shadow-xl relative z-10">
                   <img
                     src="https://images.unsplash.com/photo-1531497865144-0464ef8fb9a9?q=80&w=800&auto=format&fit=crop"
-                    alt="Notre équipe MicroSnet"
+                    alt="Notre équipe Iliko"
                     className="w-full h-auto object-cover"
                   />
                 </div>
@@ -618,7 +618,7 @@ const Index = () => {
               Vous êtes en excellente compagnie
             </h2>
             <p className="text-gray-500 text-xs sm:text-sm leading-relaxed">
-              Rejoignez des centaines de dirigeants, fondateurs de startups et directeurs financiers qui font confiance à MicroSnet pour piloter leurs démarches administratives et juridiques en toute sérénité.
+              Rejoignez des centaines de dirigeants, fondateurs de startups et directeurs financiers qui font confiance à Iliko pour piloter leurs démarches administratives et juridiques en toute sérénité.
             </p>
             <div className="pt-2">
               <Link

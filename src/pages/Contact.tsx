@@ -81,7 +81,7 @@ const Contact = () => {
                 <Phone className="w-6 h-6" />
               </div>
               <h3 className="text-base font-space font-bold text-brand-navy mb-1">Téléphone</h3>
-              <p className="text-sm font-semibold text-brand-orange">+225 07 00 00 00 00</p>
+              <p className="text-sm font-semibold text-brand-orange">+225 05 03 61 71 71</p>
               <p className="text-xs text-gray-400 mt-1">Lun - Ven : 8h00 - 18h00</p>
             </div>
 
@@ -91,7 +91,7 @@ const Contact = () => {
                 <Mail className="w-6 h-6" />
               </div>
               <h3 className="text-base font-space font-bold text-brand-navy mb-1">Email</h3>
-              <p className="text-sm font-semibold text-brand-orange">contact@microsnet.ci</p>
+              <p className="text-sm font-semibold text-brand-orange">contact@iliko.ci</p>
               <p className="text-xs text-gray-400 mt-1">Réponse sous 24h ouvrées</p>
             </div>
 
@@ -232,7 +232,7 @@ const Contact = () => {
                       </label>
                       <input
                         type="tel"
-                        placeholder="Ex: 07 00 00 00 00"
+                        placeholder="Ex: 05 03 61 71 71"
                         value={formData.phone}
                         onChange={(e) => setFormData({ ...formData, phone: e.target.value })}
                         required

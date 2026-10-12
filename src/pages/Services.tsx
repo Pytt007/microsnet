@@ -106,7 +106,7 @@ const Services = () => {
         <div className="container mx-auto px-4 relative z-10 text-center max-w-4xl mx-auto">
           <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-white/10 backdrop-blur-sm border border-white/15 text-white text-xs font-semibold uppercase tracking-widest mb-6">
             <Sparkles className="w-3.5 h-3.5 text-brand-orange" />
-            Catalogue des Expertises MicroSnet
+            Catalogue des Expertises Iliko
           </div>
 
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-space font-extrabold uppercase tracking-tight mb-6 leading-tight">

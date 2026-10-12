@@ -19,7 +19,7 @@ export const AdminLogin = () => {
     e.preventDefault();
     setLoading(true);
 
-    if (email === "admin@microsnet.com" && password === "admin") {
+    if (email === "admin@iliko.com" && password === "admin") {
       toast({
         title: "Connexion réussie",
         description: "Accès au tableau de bord administrateur autorisé (Mode Démo)",
@@ -28,7 +28,7 @@ export const AdminLogin = () => {
     } else {
       toast({
         title: "Erreur de connexion",
-        description: "Identifiants incorrects (Compte de test: admin@microsnet.com / admin)",
+        description: "Identifiants incorrects (Compte de test: admin@iliko.com / admin)",
         variant: "destructive",
       });
     }
@@ -53,7 +53,7 @@ export const AdminLogin = () => {
               Connexion Back-Office
             </h1>
             <p className="text-xs text-gray-400 mt-1">
-              Accès strictement réservé aux gestionnaires de MicroSnet
+              Accès strictement réservé aux gestionnaires de Iliko
             </p>
           </div>
 
@@ -64,7 +64,7 @@ export const AdminLogin = () => {
               </label>
               <input
                 type="email"
-                placeholder="admin@microsnet.com"
+                placeholder="admin@iliko.com"
                 value={email}
                 onChange={(e) => setEmail(e.target.value)}
                 required

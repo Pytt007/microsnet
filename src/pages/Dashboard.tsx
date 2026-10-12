@@ -73,7 +73,7 @@ const Dashboard = () => {
                   Bonjour, {user?.email?.split("@")[0] || "Entrepreneur"} 👋
                 </h1>
                 <p className="text-gray-300 text-xs sm:text-sm">
-                  Bienvenue sur votre espace de gestion juridique et administrative MicroSnet.
+                  Bienvenue sur votre espace de gestion juridique et administrative Iliko.
                 </p>
               </div>
 

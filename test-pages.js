@@ -81,7 +81,7 @@ async function moveMouse(page, x, y) {
         if (emailInput) {
           const box = await emailInput.boundingBox();
           if (box) await moveMouse(page, box.x + box.width / 2, box.y + box.height / 2);
-          await typeSlowly(page, 'input[type="email"], input[name="email"]', 'admin@microsnet.com');
+          await typeSlowly(page, 'input[type="email"], input[name="email"]', 'admin@iliko.com');
           await sleep(500);
           filledForms = true;
         }

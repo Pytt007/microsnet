@@ -80,7 +80,7 @@ export const AuthProvider = ({ children }: { children: ReactNode }) => {
     if (error) {
       toast({ title: 'Erreur de connexion', description: error.message, variant: 'destructive' });
     } else {
-      toast({ title: 'Connexion réussie', description: 'Bienvenue sur MicroSnet !' });
+      toast({ title: 'Connexion réussie', description: 'Bienvenue sur Iliko !' });
     }
 
     setLoading(false);

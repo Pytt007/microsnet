@@ -84,7 +84,7 @@ const Auth = () => {
               <div className="relative z-10 space-y-6">
                 <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-white/10 backdrop-blur-sm border border-white/15 text-white text-xs font-semibold uppercase tracking-widest">
                   <Sparkles className="w-3 h-3 text-brand-orange" />
-                  Espace Sécurisé MicroSnet
+                  Espace Sécurisé Iliko
                 </div>
 
                 <h2 className="text-2xl lg:text-3xl font-space font-bold leading-tight">
@@ -291,7 +291,7 @@ const Auth = () => {
                         </label>
                         <input
                           type="tel"
-                          placeholder="07 00 00 00 00"
+                          placeholder="05 03 61 71 71"
                           value={phone}
                           onChange={(e) => setPhone(e.target.value)}
                           required
@@ -358,7 +358,7 @@ const Auth = () => {
                           className="mt-0.5 rounded border-gray-300 text-brand-orange focus:ring-brand-orange"
                         />
                         <span>
-                          J'accepte les conditions générales d'utilisation et la politique de confidentialité de MicroSnet.
+                          J'accepte les conditions générales d'utilisation et la politique de confidentialité de Iliko.
                         </span>
                       </label>
                     </div>

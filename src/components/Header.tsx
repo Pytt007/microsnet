@@ -20,11 +20,11 @@ const Header = ({ currentPage = "" }: HeaderProps) => {
           <div className="flex items-center gap-6">
             <span className="flex items-center gap-2">
               <Phone className="w-3.5 h-3.5 text-brand-orange" />
-              <span>+225 07 00 00 00 00</span>
+              <span>+225 05 03 61 71 71</span>
             </span>
             <span className="flex items-center gap-2">
               <Mail className="w-3.5 h-3.5 text-brand-orange" />
-              <span>contact@microsnet.ci</span>
+              <span>contact@iliko.ci</span>
             </span>
           </div>
           <div className="flex items-center gap-4 text-xs">
@@ -38,7 +38,7 @@ const Header = ({ currentPage = "" }: HeaderProps) => {
       <div className="container mx-auto px-4 py-3 flex items-center justify-between">
         <div className="flex items-center space-x-3">
           <Link to="/" className="flex items-center gap-2">
-            <img src={logoUrl} alt="MicroSnet" className="h-10 w-auto object-contain" />
+            <img src={logoUrl} alt="Iliko" className="h-10 w-auto object-contain" />
           </Link>
         </div>
 
